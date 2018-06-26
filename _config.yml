@@ -7,10 +7,10 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "cp"
+carpentry: "swc"
 
 # Overall title for pages.
-title: "Lesson Title"
+title: "IoT using ESP8266 and MicroPython"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -25,7 +25,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "InnovA5@gmx.com"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
